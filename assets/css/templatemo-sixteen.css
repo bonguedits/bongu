@@ -435,7 +435,7 @@ header .navbar {
 }
 
 .product-item img {
-  max-width: 100%;
+  max-width: 370px;
   overflow: hidden;
   margin: 0 auto;
   display: block;
