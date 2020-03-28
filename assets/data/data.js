@@ -11,10 +11,10 @@ var data = {
       },
       {
         type: "image",
-        sampleFile: "product_01.jpg",
-        downloadLink: "",
+        sampleFile: "sitting-dance.gif",
+        downloadLink: "https://docs.google.com/uc?export=download&id=1xkEo3t4DjkGCbuPL5rNhtu0DcVI-xPY3",
         downloadType: "photoshop",
-        title: "Demo Title 1"
+        title: "Dancing Boy"
       },
       {
         type: "image",
